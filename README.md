@@ -26,11 +26,7 @@
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=smsabir25&&theme=xcode)](https://github.com/smsabir25)
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smsabir25&show_icons=true&locale=en&theme=tokyonight" alt="smsabir25" width=51%/>
-</p>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smsabir25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="smsabir25" width=51%/>
-</p>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabir25&&theme=tokyonight" alt="smsabir25" width=51%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smsabir25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="smsabir25" width=60%/>
+<img src="https://github-readme-stats.vercel.app/api?username=smsabir25&show_icons=true&locale=en&theme=tokyonight" alt="smsabir25" width=60%/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smsabir25&&theme=tokyonight" alt="smsabir25" width=60%/>
 </p>
