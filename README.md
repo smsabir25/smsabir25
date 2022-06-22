@@ -4,13 +4,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=smsabir25.smsabir25)
 
-- 🌱 I’m currently brusing-up **Competitive Programming (CodeForces)**
+- 🌱 I’m currently learning **Web Dev. (MERN)**
 
-- 🌱 I’m currently learning **Full-Stack Web Development (MERN)**
+- 🌱 I’m currently brusing-up **CP (CodeForces)**
 
 - 🔭 I’m looking for some interesting projects to work!
 
-- 👯 I’m looking to collaborate on many Open Source Projects 😀
+- 🤝 I’m looking to collaborate on many Open Source Projects
 
 - 🤔 I’m looking for help with career 🏢
 
